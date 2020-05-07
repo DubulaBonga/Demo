@@ -7,5 +7,5 @@ Feature: Registration
     
     Examples:
       | username  |         email         | password  | confirm password |
-      | tomsmith  | bongadubula@gmail.com | Heron@88% | P2ssword1        |
+      | tomsmith  | bongadubula@gmail.com | P2ssword1 | P2ssword1        |
 
